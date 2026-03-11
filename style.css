@@ -23,3 +23,9 @@ button{
 button:hover{
     background: #0099cc;
 }
+
+.credit{
+    margin-top: 40px;
+    font-size: 14px;
+    color: #888;
+}
